@@ -80,6 +80,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Panda2Chan&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda2Chan&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="./assets/github-stats.svg" alt="GitHub stats" />
+  <img height="165" src="./assets/top-langs.svg" alt="Top languages" />
+</p>
+
+<p align="center">
+  <sub>数据由 GitHub API 生成，每天自动刷新；不依赖第三方统计图片服务。</sub>
 </p>
