@@ -14,13 +14,13 @@
     <circle cx="30" cy="58" r="4" fill="#3178c6" />
     <text x="42" y="62" class="name">TypeScript</text>
     <rect x="150" y="51" width="220" height="8" rx="4" fill="#21262d" />
-    <rect x="150" y="51" width="182" height="8" rx="4" fill="#3178c6" />
-    <text x="372" y="62" class="percent" text-anchor="end">82.9%</text>
+    <rect x="150" y="51" width="181" height="8" rx="4" fill="#3178c6" />
+    <text x="372" y="62" class="percent" text-anchor="end">82.2%</text>
     <circle cx="30" cy="76" r="4" fill="#f1e05a" />
     <text x="42" y="80" class="name">JavaScript</text>
     <rect x="150" y="69" width="220" height="8" rx="4" fill="#21262d" />
-    <rect x="150" y="69" width="18" height="8" rx="4" fill="#f1e05a" />
-    <text x="372" y="80" class="percent" text-anchor="end">8%</text>
+    <rect x="150" y="69" width="19" height="8" rx="4" fill="#f1e05a" />
+    <text x="372" y="80" class="percent" text-anchor="end">8.8%</text>
     <circle cx="30" cy="94" r="4" fill="#41b883" />
     <text x="42" y="98" class="name">Vue</text>
     <rect x="150" y="87" width="220" height="8" rx="4" fill="#21262d" />
