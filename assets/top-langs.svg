@@ -14,27 +14,27 @@
     <circle cx="30" cy="58" r="4" fill="#3178c6" />
     <text x="42" y="62" class="name">TypeScript</text>
     <rect x="150" y="51" width="220" height="8" rx="4" fill="#21262d" />
-    <rect x="150" y="51" width="181" height="8" rx="4" fill="#3178c6" />
-    <text x="372" y="62" class="percent" text-anchor="end">82.2%</text>
+    <rect x="150" y="51" width="171" height="8" rx="4" fill="#3178c6" />
+    <text x="372" y="62" class="percent" text-anchor="end">77.8%</text>
     <circle cx="30" cy="76" r="4" fill="#f1e05a" />
     <text x="42" y="80" class="name">JavaScript</text>
     <rect x="150" y="69" width="220" height="8" rx="4" fill="#21262d" />
-    <rect x="150" y="69" width="19" height="8" rx="4" fill="#f1e05a" />
-    <text x="372" y="80" class="percent" text-anchor="end">8.8%</text>
+    <rect x="150" y="69" width="24" height="8" rx="4" fill="#f1e05a" />
+    <text x="372" y="80" class="percent" text-anchor="end">10.8%</text>
     <circle cx="30" cy="94" r="4" fill="#41b883" />
     <text x="42" y="98" class="name">Vue</text>
     <rect x="150" y="87" width="220" height="8" rx="4" fill="#21262d" />
-    <rect x="150" y="87" width="8" height="8" rx="4" fill="#41b883" />
-    <text x="372" y="98" class="percent" text-anchor="end">3.6%</text>
+    <rect x="150" y="87" width="7" height="8" rx="4" fill="#41b883" />
+    <text x="372" y="98" class="percent" text-anchor="end">3.4%</text>
     <circle cx="30" cy="112" r="4" fill="#563d7c" />
     <text x="42" y="116" class="name">CSS</text>
     <rect x="150" y="105" width="220" height="8" rx="4" fill="#21262d" />
-    <rect x="150" y="105" width="6" height="8" rx="4" fill="#563d7c" />
-    <text x="372" y="116" class="percent" text-anchor="end">2.9%</text>
-    <circle cx="30" cy="130" r="4" fill="#e34c26" />
-    <text x="42" y="134" class="name">HTML</text>
+    <rect x="150" y="105" width="7" height="8" rx="4" fill="#563d7c" />
+    <text x="372" y="116" class="percent" text-anchor="end">3%</text>
+    <circle cx="30" cy="130" r="4" fill="#3572A5" />
+    <text x="42" y="134" class="name">Python</text>
     <rect x="150" y="123" width="220" height="8" rx="4" fill="#21262d" />
-    <rect x="150" y="123" width="4" height="8" rx="4" fill="#e34c26" />
-    <text x="372" y="134" class="percent" text-anchor="end">1.1%</text>
+    <rect x="150" y="123" width="5" height="8" rx="4" fill="#3572A5" />
+    <text x="372" y="134" class="percent" text-anchor="end">2.4%</text>
   <text x="24" y="153" class="muted">Public source repositories only</text>
 </svg>
