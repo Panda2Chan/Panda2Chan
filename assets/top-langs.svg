@@ -15,12 +15,12 @@
     <text x="42" y="62" class="name">TypeScript</text>
     <rect x="150" y="51" width="220" height="8" rx="4" fill="#21262d" />
     <rect x="150" y="51" width="141" height="8" rx="4" fill="#3178c6" />
-    <text x="372" y="62" class="percent" text-anchor="end">64.3%</text>
+    <text x="372" y="62" class="percent" text-anchor="end">64.2%</text>
     <circle cx="30" cy="76" r="4" fill="#f1e05a" />
     <text x="42" y="80" class="name">JavaScript</text>
     <rect x="150" y="69" width="220" height="8" rx="4" fill="#21262d" />
-    <rect x="150" y="69" width="56" height="8" rx="4" fill="#f1e05a" />
-    <text x="372" y="80" class="percent" text-anchor="end">25.6%</text>
+    <rect x="150" y="69" width="57" height="8" rx="4" fill="#f1e05a" />
+    <text x="372" y="80" class="percent" text-anchor="end">25.7%</text>
     <circle cx="30" cy="94" r="4" fill="#563d7c" />
     <text x="42" y="98" class="name">CSS</text>
     <rect x="150" y="87" width="220" height="8" rx="4" fill="#21262d" />
