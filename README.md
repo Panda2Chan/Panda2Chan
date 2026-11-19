@@ -65,14 +65,14 @@
 
 #### AI 产品与自动化
 
-- [ai-asmr](https://github.com/Panda2Chan/ai-asmr)：基于 VEO3 AI 能力的 ASMR 视频生成 SaaS，覆盖内容生成、产品交互和前端工程实现。
+- [kol-scout](https://github.com/Panda2Chan/kol-scout)：在 Chrome 侧边栏按关键词发现 TikTok、YouTube 和 X 上的创作者，按粉丝数筛选，并将已保存的名单导出为 CSV。
 - AI 达人匹配与 TikTok 召回工具：围绕关键词优化、候选召回、负向过滤、评分排序、第三方数据缓存、超时日志和结果复盘做全链路优化。
 - AI 客服与自动化工具：结合移动端/管理端场景，处理用户资料、素材上传、脚本化任务和效率工具链。
 
 #### 前端工程与中后台系统
 
 - 多套管理后台与客户后台：覆盖权限、表格、筛选、数据看板、表单流转、运营配置等高频业务场景。
-- 组件库与 Hooks 抽象：[luck_use](https://github.com/Panda2Chan/luck_use) 聚焦 React Hooks 复用，商业项目中也沉淀过组件化、表单化和工程化方案。
+- [easy-adb](https://github.com/Panda2Chan/easy-adb)：用图形界面管理 Android 手机、电视和电视盒子，支持通过 USB 或无线网络连接设备，安装本地或下载链接中的 APK。
 - 多端前端技术栈：熟悉 React / Next.js / Vue / Vite / Tailwind CSS / Ant Design / Element UI / ECharts 等技术体系。
 
 #### 数据、支付与交易系统
