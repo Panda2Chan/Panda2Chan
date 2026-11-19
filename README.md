@@ -23,6 +23,36 @@
 
 ---
 
+## 当前项目
+
+### Easy ADB
+
+<p>
+  <img src="https://raw.githubusercontent.com/Panda2Chan/easy-adb/main/docs/assets/easy-adb-mark.svg" alt="Easy ADB 图标" width="56" align="left" />
+  <a href="https://github.com/Panda2Chan/easy-adb"><strong>Easy ADB</strong></a> 是一款简单、轻量、中文友好的 Android 设备管理工具。
+</p>
+
+它通过图形界面封装常用的 ADB 操作，帮助用户连接 Android 手机、电视和电视盒子，并完成 APK 安装。
+
+项目重点关注：
+
+- 现代、清晰的桌面 UI
+- 简单易懂的操作流程
+- 中文用户的使用体验
+- USB、局域网和无线调试连接
+- Windows 和 macOS 支持
+- 面向 Android 电视和电视盒子的实际使用场景
+
+技术栈包括 React、TypeScript、shadcn/ui、Vite、.NET 和 Android ADB。
+
+官网：[easyadb.panchan.top](https://easyadb.panchan.top/)
+
+源码：[github.com/Panda2Chan/easy-adb](https://github.com/Panda2Chan/easy-adb)
+
+下载：[GitHub Releases](https://github.com/Panda2Chan/easy-adb/releases)
+
+---
+
 ### 关于我
 
 我是一名偏产品落地的全栈开发者，长期围绕 **AI 工具、前端工程化、管理后台、支付/钱包/交易系统、数据平台、多语言站点和浏览器效率工具** 做工程实践。
